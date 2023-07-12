@@ -3,4 +3,4 @@
 ```
 a code
 ```
-![Screenshot](/blob/main/Capture8.PNG?raw=true)
+![Screenshot](https://github.com/panndda/Light/blob/main/Capture8.PNG?raw=true)
